@@ -1,0 +1,81 @@
+{
+  "uid" : "b9f8f206651c17a0",
+  "name" : "test_003",
+  "fullName" : "test_my#test_003",
+  "historyId" : "58a6bcc0d5146cfe1c380e38a2d44822",
+  "time" : {
+    "start" : 1599115894584,
+    "stop" : 1599115894585,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1599115894361,
+      "stop" : 1599115894570,
+      "duration" : 209
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9316a02f9e541815",
+      "name" : "stdout",
+      "source" : "9316a02f9e541815.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_my"
+  }, {
+    "name" : "host",
+    "value" : "XB-20190903XEZJ"
+  }, {
+    "name" : "thread",
+    "value" : "17040-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_my"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9f8f206651c17a0.json",
+  "parameterValues" : [ ]
+}

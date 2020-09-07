@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.7.4 on win32)" generated="20200907 16:25:55.721" rpa="false">
+<suite id="s1" name="Testsuite" source="E:\studytemp\testsuite">
+<suite id="s1-s1" name="Suite1" source="E:\studytemp\testsuite\suite1.robot">
+<test id="s1-s1-t1" name="MY_001">
+<kw name="Test 001" library="testcase.test_my">
+<msg timestamp="20200907 16:25:55.764" level="INFO">testing complet11</msg>
+<status status="PASS" starttime="20200907 16:25:55.764" endtime="20200907 16:25:55.764"></status>
+</kw>
+<status status="PASS" starttime="20200907 16:25:55.764" endtime="20200907 16:25:55.764" critical="yes"></status>
+</test>
+<test id="s1-s1-t2" name="MY_002">
+<kw name="Test 002" library="testcase.test_my">
+<msg timestamp="20200907 16:25:55.765" level="INFO">testing complete2</msg>
+<status status="PASS" starttime="20200907 16:25:55.765" endtime="20200907 16:25:55.765"></status>
+</kw>
+<status status="PASS" starttime="20200907 16:25:55.765" endtime="20200907 16:25:55.765" critical="yes"></status>
+</test>
+<test id="s1-s1-t3" name="MY_003">
+<kw name="Test 003" library="testcase.test_my">
+<msg timestamp="20200907 16:25:55.766" level="INFO">testing complete3</msg>
+<status status="PASS" starttime="20200907 16:25:55.766" endtime="20200907 16:25:55.766"></status>
+</kw>
+<status status="PASS" starttime="20200907 16:25:55.766" endtime="20200907 16:25:55.766" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200907 16:25:55.757" endtime="20200907 16:25:55.767"></status>
+</suite>
+<status status="PASS" starttime="20200907 16:25:55.724" endtime="20200907 16:25:55.767"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="3" fail="0">Critical Tests</stat>
+<stat pass="3" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="3" fail="0" id="s1" name="Testsuite">Testsuite</stat>
+<stat pass="3" fail="0" id="s1-s1" name="Suite1">Testsuite.Suite1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
