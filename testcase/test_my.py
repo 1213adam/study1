@@ -12,3 +12,7 @@ def test_003():
 
 def fix01()：
      pass
+
+def fix02()
+
+def fix03(
