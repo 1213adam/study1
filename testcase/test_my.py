@@ -8,3 +8,7 @@ def test_002():
 
 def test_003():
     print(" testing complete3")
+    
+
+def fix01()：
+     pass
